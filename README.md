@@ -1,5 +1,5 @@
 # Demo Code
-As a quick start, a demo script is provided in example.py. In the demo, we run Kitsune on a network capture of the Mirai malware. You can either run it directly or enter the following into your python console
+As a quick start, a demo script is provided in NIDS.py. In the demo, we run Kitsune on a network capture of the Mirai malware. You can either run it directly or enter the following into your python console
 ```
 import NIDS.py
 ```
