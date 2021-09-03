@@ -9,6 +9,5 @@ The code was written and with the Python environment Anaconda: https://anaconda.
 For significant speedups, as shown in our paper, you must implement Kitsune in C++, or entirely using cython.
 
 # Full Datasets
-The full datasets used in our NDSS paper can be found by following this google drive link:
-https://goo.gl/iShM7E
-
+The full datasets used in our NIDS paper can be found by following this google drive link:
+https://drive.google.com/drive/folders/10diXfYmyH2YqI6B9hqxnbiMRdo48kB0F?usp=sharing
